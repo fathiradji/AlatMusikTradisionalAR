@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gambus" size="1414.000000 2000.000000" />
+    <ImageTarget name="rebab" size="1414.000000 2000.000000" />
+    <ImageTarget name="gandrang_bulo" size="1414.000000 2000.000000" />
+    <ImageTarget name="bonang" size="1414.000000 2000.000000" />
+    <ImageTarget name="sasando" size="1414.000000 2000.000000" />
+    <ImageTarget name="kecapi" size="1414.000000 2000.000000" />
+    <ImageTarget name="gendang" size="1414.000000 2000.000000" />
+    <ImageTarget name="gong" size="1414.000000 2000.000000" />
+    <ImageTarget name="tifa" size="1414.000000 2000.000000" />
+    <ImageTarget name="angklung" size="1414.000000 2000.000000" />
+  </Tracking>
+</QCARConfig>
